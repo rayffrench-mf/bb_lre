@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ActionStruct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Parameters>
+    <ParamStruct>
+      <Name>username</Name>
+      <Direction>Input</Direction>
+      <Type>String</Type>
+      <DefaultValueString>sapower</DefaultValueString>
+    </ParamStruct>
+    <ParamStruct>
+      <Name>password</Name>
+      <Direction>Input</Direction>
+      <Type>Encrypted</Type>
+      <DefaultValueString>{OBFUSCATED}ZwognWhqxvmR+GGpvJUsnw==</DefaultValueString>
+    </ParamStruct>
+  </Parameters>
+</ActionStruct>
